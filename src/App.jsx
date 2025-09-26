@@ -18,3 +18,13 @@ function App() {
 }
 
 export default App;
+
+// src/App.jsx
+export default function App() {
+  return (
+    <div>
+      <h1>Frontend funcionando ✅</h1>
+    </div>
+  );
+}
+
